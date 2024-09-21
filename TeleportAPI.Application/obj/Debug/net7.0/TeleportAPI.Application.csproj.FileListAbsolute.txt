@@ -1,0 +1,12 @@
+C:\Users\Kanan\source\repos\TeleportAPI\TeleportAPI.Application\obj\Debug\net7.0\TeleportAPI.Application.csproj.AssemblyReference.cache
+C:\Users\Kanan\source\repos\TeleportAPI\TeleportAPI.Application\obj\Debug\net7.0\TeleportAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kanan\source\repos\TeleportAPI\TeleportAPI.Application\obj\Debug\net7.0\TeleportAPI.Application.AssemblyInfoInputs.cache
+C:\Users\Kanan\source\repos\TeleportAPI\TeleportAPI.Application\obj\Debug\net7.0\TeleportAPI.Application.AssemblyInfo.cs
+C:\Users\Kanan\source\repos\TeleportAPI\TeleportAPI.Application\obj\Debug\net7.0\TeleportAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\Kanan\source\repos\TeleportAPI\TeleportAPI.Application\bin\Debug\net7.0\TeleportAPI.Application.deps.json
+C:\Users\Kanan\source\repos\TeleportAPI\TeleportAPI.Application\bin\Debug\net7.0\TeleportAPI.Application.dll
+C:\Users\Kanan\source\repos\TeleportAPI\TeleportAPI.Application\bin\Debug\net7.0\TeleportAPI.Application.pdb
+C:\Users\Kanan\source\repos\TeleportAPI\TeleportAPI.Application\obj\Debug\net7.0\TeleportAPI.Application.dll
+C:\Users\Kanan\source\repos\TeleportAPI\TeleportAPI.Application\obj\Debug\net7.0\refint\TeleportAPI.Application.dll
+C:\Users\Kanan\source\repos\TeleportAPI\TeleportAPI.Application\obj\Debug\net7.0\TeleportAPI.Application.pdb
+C:\Users\Kanan\source\repos\TeleportAPI\TeleportAPI.Application\obj\Debug\net7.0\ref\TeleportAPI.Application.dll
